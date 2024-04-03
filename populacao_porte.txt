@@ -1,0 +1,5 @@
+Pequeno I	8344.46
+Pequeno II	30052.41
+Médio	68659.12
+Grande	234375.12
+Metrópole	2476052.00
